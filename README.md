@@ -1,6 +1,6 @@
 # codephine1
 
-Repository for the CODphine Data Science Internship tasks from November 21 to December 20, 2023.
+Repository for the Codephine Data Science Internship tasks from November 21 to December 20, 2023.
 
 Tasks
 1) Fake News Prediction
